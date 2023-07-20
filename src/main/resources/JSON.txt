@@ -1,0 +1,15 @@
+x/sensors/registration
+
+{
+    "name": "Sensor name"
+}
+
+/measurements/add
+
+{
+    "value": 24.7,
+    "raining": false,
+    "sensor": {
+        "name": "Sensor name"
+    }
+}
